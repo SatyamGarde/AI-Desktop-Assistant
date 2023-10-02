@@ -11,8 +11,28 @@ Jarvis is a Python-based voice-controlled assistant that can perform various tas
 - **Music Player:** Play music from a specified directory.
 - **Reminder:** Set reminders to get notified about tasks.
 
-## Getting Started
+## Usage
 
+1. Run the Python script `jarvis.py`.
+2. Wait for Jarvis to say, "I am Jarvis Sir. Please tell me how may I help you."
+3. Give voice commands, and Jarvis will respond accordingly.
+
+## Voice Commands
+
+Here are some sample voice commands you can use:
+
+- "Open YouTube" - Opens the YouTube website.
+- "Search Wikipedia for [query]" - Searches Wikipedia for the specified query.
+- "Play music" - Plays music from a specified directory.
+- "Email to [recipient]" - Send an email to the specified recipient.
+- "Remind me [task] in [minutes] minutes" - Set a reminder for a specific task.
+
+## Examples
+
+- To open YouTube, say, "Open YouTube."
+- To search Wikipedia for information, say, "Search Wikipedia for Artificial Intelligence."
+- To play music, say, "Play music."
+- To send an email, say, "Email to John Smith."
 ### Prerequisites
 
 Before running Jarvis, make sure you have the following Python libraries installed:
